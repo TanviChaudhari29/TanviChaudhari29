@@ -19,7 +19,7 @@ End-to-end retail analytics using cohort retention analysis, RFM customer segmen
 
 ## 📫 Connect with me
 - LinkedIn: [Tanvi Chaudhari](https://www.linkedin.com/in/tanvi-chaudhari-759236284/)
-- Email: tchaudhari1629@gmail.com
+
 <!--
 **TanviChaudhari29/TanviChaudhari29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
