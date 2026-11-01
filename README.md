@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tanvi Chaudhari 👋
+
+Aspiring Data Analyst who enjoys turning raw data into clear, useful insights.
+I work with Python, SQL, and Power BI.
+
+## 🛠️ Tools & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+## 📊 Featured Project
+**[Retail Cohort & CLV Analysis](https://github.com/TanviChaudhari29/retail-cohort-clv-analysis)**
+End-to-end retail analytics using cohort retention analysis, RFM customer segmentation, and Power BI dashboards.
+
+## 📚 Currently Learning
+- Advanced SQL
+- Data storytelling and dashboards
+
+## 📫 Connect with me
+- LinkedIn: [Your Name](https://www.linkedin.com/in/your-link)
+- Email: your-email@example.com
 
 <!--
 **TanviChaudhari29/TanviChaudhari29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
